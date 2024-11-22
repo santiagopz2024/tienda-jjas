@@ -1,0 +1,33 @@
+[
+    {
+    "id": 1,
+    "producto": "mantequilla",
+    "descripcion": "mantequilla de alta calidad fabrica naturalmente.",
+    "imagen": "mantequilla.jpg",
+    "precio": 5000
+    },
+    {
+    "id": 2,
+    "producto": "yogurt",
+    "descripcion": "delicioso yogurt casero cremoso.",
+    "imagen": "yogurt.jpg",
+    "precio": 10000
+    },
+    {
+        "id": 3,
+        "producto": "leche",
+        "descripcion": "leche 100% pura.",
+        "imagen": "leche.jpg",
+        "precio": 3000
+        },
+        {
+            "id": 4,
+            "producto": "queso",
+            "descripcion": "delicioso queso 100% natural.",
+            "imagen": "quesonatural.jpg",
+            "precio": 10000
+            }
+
+   ]
+
+   
